@@ -16,3 +16,6 @@ https://jorgegarit.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jorge Garit
+
+
+### ©️2019 Run Buddy, Inc 
